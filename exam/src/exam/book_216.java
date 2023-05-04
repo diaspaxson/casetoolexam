@@ -12,11 +12,6 @@ public class book_216 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int go_foward()
-		{
-			page_num++;
-			return page_num;
-		}
 
 	}
 
